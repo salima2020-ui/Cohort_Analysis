@@ -1,11 +1,11 @@
-##1. Customer Retention Insights
+1. Customer Retention Insights
 Sharp Initial Drop-off Rate
 The vast majority of customers do not return for a repeat purchase in period 1 after their initial order (period 0). The retention rate drops sharply below 2% in the very first month.
 
 Retention Plateau
 From period 2 onwards, the small percentage of returning customers remains steady, indicating a small but highly loyal core customer base.
 
-##2. Revenue & LTV (Cumulative Revenue) Insights
+2. Revenue & LTV (Cumulative Revenue) Insights
 Revenue Concentration in Period 0
 Over 90% of total customer lifetime value (LTV) is generated during the first month of acquisition. Repeat purchase revenue contributes a minimal percentage to overall revenue.
 
